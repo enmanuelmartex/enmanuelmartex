@@ -11,23 +11,25 @@ Cybersecurity & Cloud Student | Passionate about building and securing real-worl
 
 ---
 
-**🔐 Cybersecurity & OS:**
+## Skills:
+
+**Cybersecurity & OS:**
 
 <img src="https://skillicons.dev/icons?i=kali,linux,bash"/>
 
-**🌐 Networking & Firewalls:**
+**Networking & Firewalls:**
 
 `FortiGate · VPN IPsec · VLANs · ACLs · NAT/PAT · STP · EtherChannel · VRRP · GNS3 · Wazuh · Zabbix`
 
-**☁️ Cloud & DevOps:**
+**Cloud & DevOps:**
 
 <img src="https://skillicons.dev/icons?i=aws,docker,ansible,jenkins,githubactions"/>
 
-**💾 Databases:**
+**Databases:**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,mssql"/>
 
-**💻 Programming & Scripting:**
+**Programming & Scripting:**
 
 <img src="https://skillicons.dev/icons?i=python,cs,bash"/>
 
@@ -35,12 +37,29 @@ Cybersecurity & Cloud Student | Passionate about building and securing real-worl
 ## Certificados
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem;">
+   <a href="https://coursera.org/verify/CNQLFJR6ZE3B">
     <img height="200" src="certs/Google Certification_page-0001.jpg" alt="Security">
+   </a>
+   <a href="https://training.fortinet.com/admin/tool/certificate/index.php">
     <img height="200" src="certs/Fortinet Certified Fundamentals in Cybersecurity_page-0001.jpg" alt="Security">
+   </a>
+   <a href="https://www.credly.com/badges/861537d0-6812-4263-9007-a169728f7088/public_url">
     <img height="200" src="certs/NetworkTechnicianCareerPathCertification_page-0001.jpg" alt="Networking">
+   </a>
 </div>
 
 ## Contacts
 
-| [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enmanuelmartex@gmail.com) | [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/enmanuel-marte/) | [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/enmanuelmartex) |
-|---|---|---|
+<div align="left">
+  <a href="mailto:enmanuelmartex@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/enmanuel-marte/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/enmanuelmartex">
+    <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+  </a>
+</div>
