@@ -55,7 +55,7 @@ Cybersecurity & Cloud Student | Passionate about building and securing real-worl
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/enmanuel-marte/">
+  <a href="https://www.linkedin.com/in/enmanuelmartex/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
