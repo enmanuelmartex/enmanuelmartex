@@ -46,6 +46,8 @@ Cybersecurity & Cloud Student | Passionate about building and securing real-worl
    <a href="https://www.credly.com/badges/861537d0-6812-4263-9007-a169728f7088/public_url">
     <img height="200" src="certs/NetworkTechnicianCareerPathCertification_page-0001.jpg" alt="Networking">
    </a>
+    <img height="200" src="certs/digitalcert_page-0001.jpg" alt="Cibersecurity">
+    
 </div>
 
 ## Contacts
